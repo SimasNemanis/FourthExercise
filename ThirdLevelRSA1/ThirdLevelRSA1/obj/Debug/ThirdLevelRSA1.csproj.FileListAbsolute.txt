@@ -1,0 +1,7 @@
+C:\Users\rolan\source\repos\ThirdLevelRSA1\ThirdLevelRSA1\obj\Debug\ThirdLevelRSA1.csproj.AssemblyReference.cache
+C:\Users\rolan\source\repos\ThirdLevelRSA1\ThirdLevelRSA1\obj\Debug\ThirdLevelRSA1.csproj.CoreCompileInputs.cache
+C:\Users\rolan\source\repos\ThirdLevelRSA1\ThirdLevelRSA1\bin\Debug\ThirdLevelRSA1.exe.config
+C:\Users\rolan\source\repos\ThirdLevelRSA1\ThirdLevelRSA1\bin\Debug\ThirdLevelRSA1.exe
+C:\Users\rolan\source\repos\ThirdLevelRSA1\ThirdLevelRSA1\bin\Debug\ThirdLevelRSA1.pdb
+C:\Users\rolan\source\repos\ThirdLevelRSA1\ThirdLevelRSA1\obj\Debug\ThirdLevelRSA1.exe
+C:\Users\rolan\source\repos\ThirdLevelRSA1\ThirdLevelRSA1\obj\Debug\ThirdLevelRSA1.pdb
